@@ -1,0 +1,5 @@
+Passo a passo como inciar o projeto
+
+1- Instalar Node JS
+2- comando : npm install
+2- comando : npm run dev
